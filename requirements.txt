@@ -1,0 +1,7 @@
+Flask
+face_recognition
+numpy
+pybase64
+opencv-python
+pillow
+cmake
